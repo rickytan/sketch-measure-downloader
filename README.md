@@ -1,6 +1,12 @@
 # sketch-measure-downloader
 A Chrome extension to download sketch-measure asserts as zip
 
+## Install
+1. Install from Chrome web store.
+
+    [![Chrome web store](https://user-images.githubusercontent.com/1250207/47563357-28376780-d954-11e8-9193-bddc95a42af0.png)](https://chrome.google.com/webstore/detail/sketch-measure-downloader/lnjcknmlompbocdgdgmfmjhjbfaclpbm)
+2. Or, clone this project and package yourself.
+
 ## Usage
 * Visit your inner or public sketch-measure website (E.G. http://utom.design/news/)
 
