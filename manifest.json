@@ -13,7 +13,7 @@
       },
       "default_title": "Download as Zip"
    },
-   "description": "Download mobile asserts from sketch measure website as a zip file",
+   "description": "Download mobile assets from sketch measure website as a zip file",
    "icons": {
       "16": "icons/Icon_16x16.png",
       "32": "icons/Icon_32x32.png",
