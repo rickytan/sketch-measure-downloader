@@ -1,0 +1,31 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "jszip.min.js", "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "16": "Icons/Icon_16x16.png",
+         "32": "Icons/Icon_32x32.png",
+         "128": "Icons/Icon_128x128.png",
+         "256": "Icons/Icon_256x256.png",
+         "512": "Icons/Icon_512x512.png"
+      },
+      "default_title": "Download as Zip"
+   },
+   "description": "Download mobile asserts from sketch measure website as a zip file",
+   "icons": {
+      "16": "icons/Icon_16x16.png",
+      "32": "icons/Icon_32x32.png",
+      "128": "icons/Icon_128x128.png",
+      "256": "icons/Icon_256x256.png"
+   },
+   "incognito": "not_allowed",
+   "manifest_version": 2,
+   "minimum_chrome_version": "31",
+   "name": "Sketch measure downloader",
+   "permissions": [ "activeTab" ],
+   "short_name": "SMDownloader",
+   "version": "0.0.1",
+   "version_name": "0.0.1"
+}
