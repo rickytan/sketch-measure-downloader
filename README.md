@@ -1,5 +1,5 @@
 # sketch-measure-downloader
-A Chrome extension to download sketch-measure asserts as zip
+A Chrome extension to download sketch-measure assets as zip
 
 ## Install
 1. Install from Chrome web store.
